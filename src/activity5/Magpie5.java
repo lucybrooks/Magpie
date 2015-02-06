@@ -285,6 +285,10 @@ public class Magpie5
 			"Hmmm.",
 			"Do you really think so?",
 			"You don't say."
+			"Wow really?"
+			"I heard somthing like that"
+   			"yes that's right"
+   			"I can't respond"
 	};
 	
 }
